@@ -25,7 +25,7 @@ moto==4.2.14
 fsspec>=2021.06.0
 
 # For linting
-black==24.3.0
+black==26.3.1
 flake8==3.7.8
 yamllint==1.17.0
 
